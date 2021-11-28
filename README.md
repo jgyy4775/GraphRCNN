@@ -6,7 +6,7 @@
 - - -
 
 ## Model
-![GraphRCNN](image/model.JPG)
+![GraphRCNN](image/model.jpg)
 
 ## keywords
 - Scene Graph Generation
